@@ -1,0 +1,3 @@
+C:/compiler-lab-project-master/cmake-build-debug/CMakeFiles/compiler_lab_project_master.dir
+C:/compiler-lab-project-master/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/compiler-lab-project-master/cmake-build-debug/CMakeFiles/rebuild_cache.dir
